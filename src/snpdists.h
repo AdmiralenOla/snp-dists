@@ -30,5 +30,5 @@ int is_acgt(char base);
 int is_unknown(char base);
 
 #define PROGRAM_VERSION PACKAGE_VERSION
-#define MAX_SEQ 1000000
+#define MAX_SEQ 100000
 #endif
